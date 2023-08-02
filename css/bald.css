@@ -3486,6 +3486,12 @@
   }
 
   .my-audio {
+    margin-top: -90px;
+     height: 100px;
+  }
+  audio {
+    height: 40px;
+    width: 250px;
   }
   #w-node-_1662a8b2-9817-d693-e5c0-db8c42d867cc-20e0a826 {
     align-self: center;
